@@ -1,7 +1,3 @@
-Certainly! Here’s a `README.md` file for the project, tailored for students:
-
----
-
 # League Champions Search Feature Project
 
 Welcome to the League Champions Search Feature Project! In this project, you will enhance an existing web application by adding a search feature to help users find League of Legends champions easily. Follow the instructions below to get started and complete the project.
