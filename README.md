@@ -33,13 +33,13 @@ This project involves adding a search feature to a web application that displays
 3. **Remove the .git Folder:**
    - To start fresh without the original repository's Git history, remove the `.git` folder:
      ```bash
+     cd league-data
      rm -rf .git
      ```
 
 4. **Install Dependencies:**
-   - Navigate to your project directory and install the necessary dependencies:
+   - Install the necessary dependencies:
      ```bash
-     cd league-data
      npm install
      ```
 
