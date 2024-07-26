@@ -42,7 +42,7 @@ This project involves adding a search feature to a web application that displays
 5. **Start the Development Server:**
    - Run the development server to see the application in action:
      ```bash
-     npm start
+     npm run dev
      ```
 
 ## Task Instructions
@@ -65,6 +65,8 @@ While working on the project, you may find the following aspects useful:
 - **Importing Fonts:** Ensure that the font used in the application matches the style of the existing design. You can refer to the existing styling for guidance.
 - **Object Conversion:** You may need to convert objects from the database into arrays. Look into using `Object.values()` if you encounter such a scenario.
 - **Tags for Filtering:** Ensure you extract and use tags correctly for the filtering options in the search bar.
+- **Multiple CSS Files:** If the project uses multiple CSS files, make sure you understand how they are organized and applied. Ensure that your styles are added in the correct file and do not conflict with existing styles.
+- **CSS Variables:** Look for any CSS variables used in the project. They are often defined in a central CSS file (e.g., styles.css) and used throughout the application. Use these variables to maintain consistency in design and styling.
 
 ## Checklist
 
